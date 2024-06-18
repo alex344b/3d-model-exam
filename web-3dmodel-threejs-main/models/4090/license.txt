@@ -1,0 +1,11 @@
+Model Information:
+* title:	GeForce RTX 4090 Founders Edition
+* source:	https://sketchfab.com/3d-models/geforce-rtx-4090-founders-edition-d417c0b4c3bd475eb9669afcd14a2601
+* author:	exéla (https://sketchfab.com/exela)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GeForce RTX 4090 Founders Edition" (https://sketchfab.com/3d-models/geforce-rtx-4090-founders-edition-d417c0b4c3bd475eb9669afcd14a2601) by exéla (https://sketchfab.com/exela) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
